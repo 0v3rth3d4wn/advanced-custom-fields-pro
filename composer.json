@@ -1,0 +1,12 @@
+{
+    "name": "0v3rth3d4wn/advanced-custom-fields-pro",
+    "description": "Customise WordPress with powerful, professional and intuitive fields.",
+    "license": "GPL-2.0+",
+    "type": "wordpress-plugin",
+    "authors": [
+      {
+        "name": "Ivo Karadzhov",
+        "email": "ivo.karadzhov@gmail.com"
+      }
+    ]
+}
